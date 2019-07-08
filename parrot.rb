@@ -1,5 +1,6 @@
 def parrot(def_argument = "Squawk!")
   puts def_argument
+  return "Hi"
 end   
 parrot
 
